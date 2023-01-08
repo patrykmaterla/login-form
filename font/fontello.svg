@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="lock-open" unicode="&#xe800;" d="M640 450q20 0 40-20t20-40l0-390q0-20-14-39t-34-25l-60-20q-52-16-96-16l-290 0q-46 0-98 16l-60 20q-20 6-34 25t-14 39l0 390q0 22 15 41t35 19l400 0 0 140q0 110-100 110t-100-110l0-40-100 0 0 20q0 110 51 170t149 60q200 0 200-230l0-120 90 0z" horiz-adv-x="700" />
+
+<glyph glyph-name="user" unicode="&#xe801;" d="M714 69q0-60-35-104t-84-44h-476q-49 0-84 44t-35 104q0 48 5 90t17 85 33 73 52 50 76 19q73-72 174-72t175 72q42 0 75-19t52-50 33-73 18-85 4-90z m-143 495q0-88-62-151t-152-63-151 63-63 151 63 152 151 63 152-63 62-152z" horiz-adv-x="714.3" />
+
+<glyph glyph-name="lock" unicode="&#xe802;" d="M640 476q20 0 40-19t20-41l0-390q0-48-48-66l-60-18q-42-16-96-16l-290 0q-56 0-98 16l-60 18q-48 18-48 66l0 390q0 22 15 41t35 19l100 0 0 70q0 110 51 170t149 60 149-60 51-170l0-70 90 0z m-390 90l0-90 200 0 0 90q0 52-27 81t-73 29-73-29-27-81z" horiz-adv-x="700" />
+
+<glyph glyph-name="login" unicode="&#xe803;" d="M661 350q0-14-11-25l-303-304q-11-10-26-10t-25 10-10 25v161h-250q-15 0-25 11t-11 25v214q0 15 11 25t25 11h250v161q0 14 10 25t25 10 26-10l303-304q11-10 11-25z m196 196v-392q0-67-47-114t-114-47h-178q-7 0-13 5t-5 13q0 2-1 11t0 15 2 13 5 11 12 3h178q37 0 64 27t26 63v392q0 37-26 64t-64 26h-174t-6 0-6 2-5 3-4 5-1 8q0 2-1 11t0 15 2 13 5 11 12 3h178q67 0 114-47t47-114z" horiz-adv-x="857.1" />
+</font>
+</defs>
+</svg>
