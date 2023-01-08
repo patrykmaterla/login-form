@@ -1,24 +1,20 @@
 <!DOCTYPE html>
-<html land="pl-PL">
-<head>
-	<title>login form</title>
-
-	<meta charset="UTF-8"/>
-	<meta name="author" content="Patryk M"/>
-	<link rel="stylesheet" href="style.css" type="text/css"/>
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700i,800" rel="stylesheet">
-	<link rel="stylesheet" href="css/fontello.css">
-	<link rel="shortcut icon" type="image/png" href="images/favicon.ico"
-</head>
-<body>
-
-	<div id="container">
-		<input type="text" placeholder="&#xe801;" onchange="this.className=(this.value=='')?'':'visited';"/>
-		<input type="password" placeholder="&#xe802;" onchange="this.className=(this.value=='')?'':'visited';"/>
-			<div id="second-container">
-				<input type="submit" value="&#xe803;"/>
-			</div>
-	</div>
-
-</body>
+<html lang="en">
+	<head>
+		<title>Login Form</title>
+		<meta charset="UTF-8" />
+		<link rel="stylesheet" href="css/style.css" type="text/css"/>
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700i,800" rel="stylesheet"/>
+		<link rel="stylesheet" href="css/fontello.css"/>
+		<link rel="shortcut icon" type="image/png" href="images/favicon.ico"/>
+	</head>
+	<body>
+		<div id="container">
+			<form action="" autocomplete="on">
+				<input type="text" placeholder="&#xe801;" onchange="this.className=(this.value=='')?'':'visited';" required="true" autocomplete="on"/>
+				<input type="password" placeholder="&#xe802;" onchange="this.className=(this.value=='')?'':'visited';" required="true" autocomplete="on"/>
+				<input type="submit" value="&#xe803;" />
+			</form>
+		</div>
+	</body>
 </html>
